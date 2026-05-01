@@ -105,14 +105,3 @@ Performance metrics are computed dynamically each time the app runs against the 
 - Persistent model saving and loading with `joblib`
 - Deployment to Streamlit Cloud or Hugging Face Spaces
 
----
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## Author
-
-**eastonwag** — [GitHub Profile](https://github.com/eastonwag)
